@@ -13,4 +13,4 @@ echarts学习之数据大屏展示
 ### 主题更换
 [echarts 样式替换🔗](https://echarts.apache.org/zh/theme-builder.html)
 ![](https://github.com/xinsuan/echarts-bigScreen/blob/main/demo-images/%E6%9B%B4%E6%8D%A2%E6%A0%B7%E5%BC%8F%E5%90%8E%E5%A4%A7%E5%B1%8F.jpg)
-[作品解析]()
+[掘金地址](https://juejin.cn/post/6941286760227799054)
